@@ -20,5 +20,11 @@ Spend as much of the money as possible in the budget getting both keyboard and U
 - Add up the arrays in every combination to get the max dollar amount without being over the budget and return the dollar amount
 - If over return -1
 
+### Challenge: Cats and a Mouse
+Which of the two cats will get the mouse or will the mouse get away?
+- if Cat A (x) is closer print 'Cat A'
+- if Cat B (y) is closer print 'Cat B'
+- if they are equal distance then they will fight and the mouse (z) will get away print 'Mouse C'
+
 
 
