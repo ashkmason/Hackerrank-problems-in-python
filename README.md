@@ -26,5 +26,11 @@ Which of the two cats will get the mouse or will the mouse get away?
 - if Cat B (y) is closer print 'Cat B'
 - if they are equal distance then they will fight and the mouse (z) will get away print 'Mouse C'
 
+### Challenge: Forming a Magic Square
+What is the minium cost to convert a 3x3 matrix into a magic square?
+- all rows, columns, diagonals add up to 15
+- only distict integers 1 through 9 can be used
+- return only the cost
+
 
 
