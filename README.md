@@ -34,3 +34,16 @@ What is the minium cost to convert a 3x3 matrix into a magic square?
 
 
 
+
+
+
+## 30 Day Challenges
+### Day 2 Operators
+Worked on math problem to find the total cost of a meal
+- given cost of meal
+- given percent tip
+- given percent tax
+- tally up to the nearest integer
+
+
+
