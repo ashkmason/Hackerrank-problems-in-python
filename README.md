@@ -45,5 +45,25 @@ Worked on math problem to find the total cost of a meal
 - given percent tax
 - tally up to the nearest integer
 
+### Day 3 Intro to Conditional Statements
+Given an integer, , perform the following conditional actions:
+- If n is odd, print Weird
+- If n is even and in the inclusive range of 2 to 5, print Not Weird
+- If n is even and in the inclusive range of 6 to 20, print Weird
+- If n is even and greater than 20, print Not Weird
+
+### Day 4 Class vs. Instance
+Write a Person class with an instance variable, age, and a constructor that takes an integer, initialAge, as a parameter. The constructor must assign initialAge to age after confirming the argument passed as initialAge is not negative; if a negative argument is passed as initialAge, the constructor should set age to 0 and print Age is not valid, setting age to 0.. In addition, you must write the following instance methods:
+- yearPasses() should increase age by 1
+- amIOld() should perform the following:
+ - if age < 13 print You are young..
+ - if age >= 13 and age < 18, pring You are a teenager..
+ - otherwise print You are old..
+
+### Day 5 Loops
+Given an integer, n, print its first 10 multiples. Each multiple n x i (where 1 <= i <= 10) should be printed on a new line in the form: n x i = result.
+
+### Day 6 Let's Review
+Given a sting, S, of length N that is indexed from 0 to N -1, print its even-indexed and odd-indexed characters as 2 space-separated strings on a single line. Note: 0 is considered to be an even index.
 
 
