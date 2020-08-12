@@ -60,9 +60,9 @@ Given an integer, , perform the following conditional actions:
 Write a Person class with an instance variable, age, and a constructor that takes an integer, initialAge, as a parameter. The constructor must assign initialAge to age after confirming the argument passed as initialAge is not negative; if a negative argument is passed as initialAge, the constructor should set age to 0 and print Age is not valid, setting age to 0.. In addition, you must write the following instance methods:
 - yearPasses() should increase age by 1
 - amIOld() should perform the following:
- - if age < 13 print You are young..
- - if age >= 13 and age < 18, pring You are a teenager..
- - otherwise print You are old..
+  - if age < 13 print You are young..
+  - if age >= 13 and age < 18, pring You are a teenager..
+  - otherwise print You are old..
 
 ### Day 5 Loops
 Given an integer, n, print its first 10 multiples. Each multiple n x i (where 1 <= i <= 10) should be printed on a new line in the form: n x i = result.
