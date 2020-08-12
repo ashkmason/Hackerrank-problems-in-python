@@ -32,6 +32,10 @@ What is the minium cost to convert a 3x3 matrix into a magic square?
 - only distict integers 1 through 9 can be used
 - return only the cost
 
+### Challenge: Picking Numbers
+Complete the pickingNumbers function.
+- Return an integer theat represents the lenght of the longest array that can be created
+- The difference between any two of the chosen integers in the array is less than or equal to 1
 
 
 
