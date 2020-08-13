@@ -78,4 +78,6 @@ Given n names and phone numbers, assemble a phone book that maps a friends' name
 - name = phoneNumber
 - if name is not found print Not found
 
+### Day 9 Recursion 3
+Write a factorial function that takes a positive integer, N as a parameter and prints the result of N! (N factorial)
 
