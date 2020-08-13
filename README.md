@@ -37,6 +37,12 @@ Complete the pickingNumbers function.
 - Return an integer theat represents the lenght of the longest array that can be created
 - The difference between any two of the chosen integers in the array is less than or equal to 1
 
+### Challenge: Climbing the Leaderboard
+Track the leaderboard ranking using dense ranking
+- the player with the highest score is ranked number 1
+- the players who have equal score receive the same ranking number
+- the next players receive the immediately following ranking number
+
 
 
 
