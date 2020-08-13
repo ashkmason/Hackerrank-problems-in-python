@@ -73,4 +73,9 @@ Given a sting, S, of length N that is indexed from 0 to N -1, print its even-ind
 ### Day 7 Arrays
 Given an array, A, of N integers, print A's elements in reverse order as a sigle line of space-separated numbers.
 
+### Day 8 Dictionaries and Maps
+Given n names and phone numbers, assemble a phone book that maps a friends' names to their respective phone numbers. You will then be given an unknown numner of names to query your phone book for. For each name queried, print the associated entry from your phone book on a new line in the form:
+- name = phoneNumber
+- if name is not found print Not found
+
 
