@@ -43,7 +43,10 @@ Track the leaderboard ranking using dense ranking
 - the players who have equal score receive the same ranking number
 - the next players receive the immediately following ranking number
 
-
+### Challenge: Jumping on the Clouds
+Figure out the minimum number of jumps needed
+- can only jump on a 0
+- can only jump plus 1 or 2
 
 
 
