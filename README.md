@@ -90,3 +90,6 @@ Given n names and phone numbers, assemble a phone book that maps a friends' name
 ### Day 9 Recursion 3
 Write a factorial function that takes a positive integer, N as a parameter and prints the result of N! (N factorial)
 
+### Day 10 Binary Numbers
+Given a base-10 integer, n, converti it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's n n's binary representation.
+
