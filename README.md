@@ -48,6 +48,15 @@ Figure out the minimum number of jumps needed
 - can only jump on a 0
 - can only jump plus 1 or 2
 
+### Challenge: List Comprehensions
+Let's learn about list comprehensions! You are given three integers x, y and z representing the dimensions of a cuboid along with an integer n. Print a list of all possible coordinates given by (i, j, k) on a 3D grid where the sum of i + j + k is not equal to n. Please use list comprehensions rather than multiple loops, as a learning exercise.
+
+### Challenge: Find the Runner-Up Score!
+Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up.
+
+### Challenge: Nested Lists
+Given the names and grades for each student in a class of N students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
+Note: If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
 
 
 ## 30 Day Challenges
